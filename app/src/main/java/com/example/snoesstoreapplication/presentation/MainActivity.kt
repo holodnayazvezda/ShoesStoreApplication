@@ -1,4 +1,4 @@
-package com.example.snoesstoreapplication
+package com.example.snoesstoreapplication.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
